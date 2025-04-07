@@ -1,1 +1,1 @@
-# NextEase_projectsss
+# Customer Data Segmentation
